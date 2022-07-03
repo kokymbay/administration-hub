@@ -1,0 +1,29 @@
+.login {
+    display: grid;
+    border-radius: 10px;
+    margin: 100px 400px;
+    background: linear-gradient(145deg, rgb(216, 34, 170), purple);
+    box-shadow: 20px 20px 70px black;
+}
+.login h1 {
+    text-align: center;
+}
+
+.authorization {
+    margin-left: auto;
+    margin-right: auto;
+}
+.username {
+    margin-bottom: 20px;
+    
+}
+#button {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.button-registration {
+    margin-left: auto;
+}
+
